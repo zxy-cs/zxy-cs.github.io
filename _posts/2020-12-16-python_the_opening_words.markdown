@@ -5,9 +5,9 @@ date: 2020-12-16 11:10:48 +0900
 category: python
 ---
 # python-sample
-> Hello!
+> Hello World!
 
 This is code
 ```python
-print ('hello world')
+print ('Hello World!')
 ```
