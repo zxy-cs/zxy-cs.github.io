@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 概述
+title: The opening words
 date: 2020-12-16 11:10:48 +0900
 category: python
 ---
-# post-sample
+# python-sample
 > Hello!
 
 This is code
-```ruby
-print 'hello world'
+```python
+print ('hello world')
 ```
