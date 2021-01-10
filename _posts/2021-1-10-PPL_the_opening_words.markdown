@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The opening words
+title: 程序设计方法学（PPL）
 date: 2021-1-10 16:37:05 +0900
 category: PPL
 ---
-# 程序设计方法学（PPL）
+
 教授：翁恺 浙江大学
 参考书：编程语言原理（第10版） 清华大学出版社
 
