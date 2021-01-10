@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 程序设计方法学（PPL）
+title: Principles of Programming Languages
 date: 2021-1-10 16:37:05 +0900
 category: PPL
 ---
