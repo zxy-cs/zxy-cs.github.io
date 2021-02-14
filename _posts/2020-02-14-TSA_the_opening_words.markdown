@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The opening words
-date: 2020-12-16 22:57:05 +0900
+date: 2020-02-14 22:57:05 +0900
 category: TimeSeries_Analysis
 ---
 这一篇主要是来自kaggle(https://www.kaggle.com/andreshg/timeseries-analysis-a-complete-guide) 平台一篇文章的翻译和搬运。
